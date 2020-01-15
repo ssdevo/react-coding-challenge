@@ -1,0 +1,27 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #444141;
+    color: white;
+    padding: 20px 30px 20px 30px
+  }
+
+  .copyright {
+    margin-top: 1%;
+  }
+
+  .media{
+    margin-top: 2%;
+  }
+
+  .store{
+    margin-left:30%;
+    float: right;
+  }
+
+  .social{
+    margin-right:30%;
+    float: left;
+  }
