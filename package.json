@@ -6,7 +6,7 @@
     "@atlaskit/avatar": "^17.1.5",
     "@atlaskit/dropdown-menu": "^8.2.2",
     "@atlaskit/dynamic-table": "^13.6.1",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "chai": "^4.1.2",
     "cypress": "^2.0.4",
